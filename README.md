@@ -1,0 +1,1 @@
+The soon-to-be-wife and I have been playing around with the idea of making a recipe book. We were thinking of keeping our treasured recipes between us; like a coveted arcane artifact... But I'm going to share a few recipes on git. This helps me get more acquainted with HTML, but simultaneously, whoever's reading this gets to try out some dope new recipes at home. Enjoy!
